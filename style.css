@@ -149,7 +149,7 @@ z-index: 1;
     right: 0;
     bottom: 0;
     left: 0;
-
+    size: cover;
     position: no-repeat;
     position: center;
     background: #000;

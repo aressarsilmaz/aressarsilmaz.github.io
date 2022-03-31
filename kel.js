@@ -95,7 +95,6 @@ $(document).ready( function(){
 $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2022/03/31/egemenlik.jpg "
 , "https://www.imagevisit.com/images/2022/03/31/ataturks.png "
-, "https://www.imagevisit.com/images/2022/03/31/Aytkurt.png "
 , "https://www.imagevisit.com/images/2022/03/31/mustafa-kemal-ataturk-turkey-statue.jpg "
 , "https://www.imagevisit.com/images/2022/03/31/Wgt109.jpg "
 , "https://www.imagevisit.com/images/2022/03/31/atam.jpg "

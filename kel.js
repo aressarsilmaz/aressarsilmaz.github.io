@@ -94,10 +94,8 @@ $(document).ready( function(){
 
 $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2022/04/01/turklerle.jpg "
-, "https://www.imagevisit.com/images/2022/03/31/ataturks.png "
 , "https://www.imagevisit.com/images/2022/03/31/mustafa-kemal-ataturk-turkey-statue.jpg "
 , "https://www.imagevisit.com/images/2022/03/31/Wgt109.jpg "
-, "https://www.imagevisit.com/images/2022/03/31/atam.jpg "
 , "https://www.imagevisit.com/images/2022/04/01/teferruat.jpg "
 , "https://www.imagevisit.com/images/2022/04/01/aytt.jpg "
 , "https://www.imagevisit.com/images/2022/04/01/Wgt171.jpg "

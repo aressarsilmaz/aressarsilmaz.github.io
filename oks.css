@@ -1,1 +1,27 @@
-s
+.container {
+  width: 600px;
+  height: 100px;
+  owerflow: hidden;
+  position: relative;
+
+}
+.container span {
+  font-size: 60px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  animation: animasyon 10s ease-in-out infinite;
+}
+
+@keyframes animasyon {
+  0% }
+
+  transform: translateY(-100px);
+  opacity: 0;
+    }
+  5% }
+
+  transform: translateY(0px);
+  opacity: 1;
+    }
+  }

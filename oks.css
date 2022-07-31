@@ -11,7 +11,7 @@ body{
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  background: #2980b9;
+  
   padding: 0 40px;
   height: 60px;
   overflow: hidden;
@@ -32,20 +32,17 @@ body{
   0%{
     margin-top: 0;
   }
-  16%{
+  5%{
     margin-top: -60px;
   }
-  33%{
+  30%{
     margin-top: -120px;
   }
-  50%{
+  40%{
     margin-top: -180px;
   }
   66%{
     margin-top: -120px;
-  }
-  82%{
-    margin-top: -60px;
   }
   100%{
     margin-top: 0;

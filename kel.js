@@ -93,14 +93,13 @@ $(document).ready( function(){
 $(document).ready( function(){
 
 $('#bg-image').backstretch([
-"https://www.imagevisit.com/images/2022/04/01/turklerle.jpg "
-, "https://www.imagevisit.com/images/2022/03/31/Wgt109.jpg "
-, "https://www.imagevisit.com/images/2022/04/01/teferruat.jpg "
-, "https://www.imagevisit.com/images/2022/04/01/Wgt171.jpg "
-, "https://www.imagevisit.com/images/2022/04/01/Wgt101.jpg "
+"https://www.imagevisit.com/images/2022/10/18/1.jpg "
+, "https://www.imagevisit.com/images/2022/10/18/4.jpg "
+, "https://www.imagevisit.com/images/2022/10/18/3.jpg "
+, "https://www.imagevisit.com/images/2022/10/18/6.jpg "
+, "https://www.imagevisit.com/images/2022/10/18/5.jpg "
 , "https://www.imagevisit.com/images/2022/03/31/mustafa-kemal-ataturk-turkey-statue.jpg "
-, "https://www.imagevisit.com/images/2022/05/04/RidxMR.jpg"
-, "https://www.imagevisit.com/images/2022/05/04/RiqKsp.jpg"
+
 ], {duration: 7000, fade: 500});
 
 });

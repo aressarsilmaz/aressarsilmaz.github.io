@@ -98,7 +98,6 @@ $('#bg-image').backstretch([
 , "https://www.imagevisit.com/images/2022/10/18/3.jpg "
 , "https://www.imagevisit.com/images/2022/10/18/6.jpg "
 , "https://www.imagevisit.com/images/2022/10/18/5.jpg "
-, "https://www.imagevisit.com/images/2022/03/31/mustafa-kemal-ataturk-turkey-statue.jpg "
 
 ], {duration: 7000, fade: 500});
 

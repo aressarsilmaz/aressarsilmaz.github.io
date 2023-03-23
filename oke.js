@@ -94,7 +94,7 @@ $(document).ready( function(){
 
 $('#bg-image').backstretch([
 "https://www.imagevisit.com/images/2023/03/23/ARMY_ANITKABIR.jpg "
-, "https://www.imagevisit.com/images/2022/11/13/basbugataturk.jpg "
+, "https://www.imagevisit.com/images/2023/03/23/indir-1.jpg "
 
 ], {duration: 7000, fade: 500});
 
